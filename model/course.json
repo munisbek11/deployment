@@ -1,0 +1,23 @@
+[
+    {
+        "id": "2a8553fd-30a4-4503-8a7e-2d87aae0a863",
+        "title": "Node js",
+        "teacher": "Muhammadali",
+        "duration": "8 month",
+        "price": "70$"
+    },
+    {
+        "id": "b02d6d09-418c-4311-9dcc-61ccd12d8480",
+        "title": "Fizika",
+        "teacher": "Farrux",
+        "duration": "10 month",
+        "price": "40$"
+    },
+    {
+        "id": "3d8d38d2-bdd1-48c2-b0c8-48cd5d7e1385",
+        "title": "Matematika",
+        "teacher": "Xushnud",
+        "duration": "9 month",
+        "price": "30$"
+    }
+]
